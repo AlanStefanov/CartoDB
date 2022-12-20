@@ -4,7 +4,7 @@
   "description": "CARTO UI frontend",
   "repository": {
     "type": "git",
-    "url": "git@github.com:AlanStefanov/CartoDB.git"
+    "url": "https://github.com/AlanStefanov/CartoDB.git"
   },
   "author": {
     "name": "CARTO",
